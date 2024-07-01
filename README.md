@@ -80,5 +80,7 @@ Responsibilities: Assisting in UI development and ensuring the interface is user
 
 ## 🔷Summary 
 
-This project not only enhances technical skills but also emphasizes the importance of teamwork and collaborative development in creating a fully functional and user-friendly mobile application.
+The primary goal of the Swiggy Clone App project is to provide team members with practical, hands-on experience in mobile application development. By replicating a real-world application like Swiggy, the project allows the team to :
+- Foster team collaboration and improve project management skills by working in a structured environment with defined roles and responsibilities.
+By the end of this project, team members will have a solid understanding of the intricacies involved in developing a large-scale mobile application, preparing them for future endeavors in the field of mobile app development.
 
