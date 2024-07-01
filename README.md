@@ -66,11 +66,12 @@ This project is team collaboration.
    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/8afafa23-ab6c-4129-8b61-c207f757164a"  height=35% width=22%  />
     <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/821c3d68-3106-40ad-8523-57ac2258bee1"  height=35% width=22%  />
    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/be56d2c4-3c84-4c9e-82e1-3404fc72cd65"  height=35% width=22%  />
-    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/2d12af8e-3463-4bec-9226-15a5b1c8419a"  height=35% width=22%  />
-   <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/78db9c8e-78a9-41db-9ca3-d20a9e597ecc"  height=35% width=22%  />
-    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/d082c537-ac05-418c-826f-95389b1d5017"  height=35% width=22%  />
-   <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/a63f3d60-51f4-4ad9-8ea0-d38220af6af8"  height=35% width=22%  />
-    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/391a85e3-160d-4f38-87fa-5d89a7e5eff7"  height=35% width=22%  />
+
+
+
+ 
+
+    
    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/a31318ab-471e-4563-9485-9c8637ebee72"  height=35% width=22%  />
     <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/b6b8eabb-3ef3-4fd1-8c2a-63b7a2821b4a"  height=35% width=22%  />
    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/513b32da-1aca-4e5d-9626-60805a767f07"  height=35% width=22%  />
@@ -92,7 +93,12 @@ This project is team collaboration.
    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/02aecda5-c0f4-472c-8936-2314cd3dd306"  height=35% width=22%  />
    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/7acdda51-6179-4ce2-9096-01a85b25f69d"  height=35% width=22%  />
 
-    
+   <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/1bed67d8-8320-4f70-83c3-55dc4902e30e"  height=35% width=22%  />
+   <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/2d12af8e-3463-4bec-9226-15a5b1c8419a"  height=35% width=22%  />
+   <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/78db9c8e-78a9-41db-9ca3-d20a9e597ecc"  height=35% width=22%  />
+    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/d082c537-ac05-418c-826f-95389b1d5017"  height=35% width=22%  />
+   <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/a63f3d60-51f4-4ad9-8ea0-d38220af6af8"  height=35% width=22%  />
+    <img src = "https://github.com/mayuuu05/swiggy_clone_app-/assets/149376263/391a85e3-160d-4f38-87fa-5d89a7e5eff7"  height=35% width=22%  />
   
   <video height="450" src="" />
 
