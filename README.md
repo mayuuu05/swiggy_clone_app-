@@ -20,7 +20,7 @@ This project is team collaboration.
 
 #### 🔸 User Authentication:
 
-- Secure login and registration using email, phone number, and social media accounts.
+- Secure login and registration phone number.
 
 #### 🔸 Restaurant Discovery: 
 - Browse and search for restaurants by cuisine, location, ratings, and popularity.
