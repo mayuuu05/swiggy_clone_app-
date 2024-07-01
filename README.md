@@ -1,5 +1,5 @@
 
-# Swiggy Clone APP
+# 🥧Swiggy Clone APP
 The Swiggy Clone App is a collaborative project meticulously crafted using the Flutter framework. Designed for educational purposes, this project provides students and developers with practical insights into mobile application development, UI/UX optimization, and effective team collaboration. By replicating the core functionalities of Swiggy, this app serves as a valuable tool for understanding the complexities involved in building and managing large-scale mobile applications.
 
 
